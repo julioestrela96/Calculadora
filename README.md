@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora em python
 
 Atividade POO 01/07/2024
 
