@@ -19,4 +19,3 @@ Adicione uma classe Passaro que também herde de Animal e implemente o método f
 #Classe abstrata Veiculo com métodos abstratos acelerar e frear.
 5-Crie uma classe abstrata Veiculo com métodos abstratos acelerar e frear. Crie duas subclasses Carro e Bicicleta que implementem esses métodos.
 Adicione um método abstrato obter_tipo_combustivel à classe Veiculo e faça com que Carro e Bicicleta implementem este método. Crie um programa que crie instâncias de Carro e Bicicleta e chame todos os métodos implementados.
-
